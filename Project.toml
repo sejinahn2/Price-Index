@@ -1,0 +1,10 @@
+name = "Price-Index"
+uuid = "5fdd9a4e-085d-11e9-0a2d-ed3be2267322"
+authors = ["sejinahn2 <43711842+sejinahn2@users.noreply.github.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
